@@ -1,5 +1,13 @@
-# 💫 About Me:
-- 🎯 I’m currently working on:  <br>  A chatbot SaaS platform using OpenRouter, FastAPI, React, Supabase, Vercel y Railway.<br><br>- 🤝 I’m looking to collaborate on:  <br>  Full-stack apps and AI tools that solve real-world problems.<br><br>- ✋ I’m looking for help with:  <br>  Mejorar la efectividad de modelos de detección y la organización del código en producción.<br><br>- 🌱 I’m currently learning:  <br>  Algoritmos, estructuras de datos, y mejores prácticas en arquitectura backend.<br><br><br><br>- ⚡ Fun fact:  <br>  Me encanta trabajar con IA <br>
+# About Me:
+- I’m currently working on:  <br>  A chatbot SaaS platform using OpenRouter, FastAPI, React, Supabase, Vercel, and Railway.<br><br>
+
+- I’m looking to collaborate on:  <br>  Full-stack apps and AI tools that solve real-world problems.<br><br>
+
+- I’m looking for help with:  <br>  Improving model effectiveness and organizing production-level code.<br><br>
+
+- I’m currently learning:  <br>  Algorithms, data structures, and best practices in backend architecture.<br><br>
+
+- Fun fact:  <br>  I love working with AI and coding with strong coffee on the side.<br>
 
 
 ## 🌐 Socials:
