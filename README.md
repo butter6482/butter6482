@@ -1,9 +1,15 @@
 # 💫 About Me:
+
 🎓 Computer Science student (Interamericana Aguadilla, PR) — graduating **2026**  
+
 🐍 Developer focused on **Python, APIs, and test automation**  
+
 ☁️ Experience with **FastAPI, Supabase, AWS CDK, CI/CD (GitHub Actions)**  
+
 🤖 Built AI-driven projects: **TuBot (chatbot SaaS), Phishing Detector, AI-RAG**  
+
 🧪 Skilled in **Pytest, QA Automation, Continuous Integration**  
+
 🚀 Passionate about **Cloud, DevOps, and SDET roles**
 
 ---
