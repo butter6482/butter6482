@@ -15,21 +15,21 @@ I’m passionate about **Artificial Intelligence, automation, and full-stack dev
 ## 🚀 Featured Projects
 
 ### 🧠 [AI Phishing Detector](https://github.com/butter6482/phishing-detector-ai)  
-🌐 **[Live Demo](https://phishing-detector-ai.onrender.com)**  
+
 AI-powered web app using **FastAPI**, **React**, and a **Naive Bayes model** trained on 1,000+ phishing samples.  
 Integrates **Google Safe Browsing API** and **OpenRouter (LLM)** for real-time explanations and threat detection.
 
 ---
 
 ### 💬 [TuBot SaaS Platform](https://github.com/butter6482/tubot)  
-🌐 **[Live Demo](https://tubot-6tuf.onrender.com)**  
+
 A SaaS platform that allows users to create their own AI chatbots using **FastAPI**, **Supabase**, and **OpenAI API**.  
 Includes authentication, bot configuration, and persistent chat history. Deployed with **Docker** and **Vercel**.
 
 ---
 
 ### 🔍 [AI-RAG Assistant](https://ai-rag-1.onrender.com)  
-🌐 **[Live Demo](https://ai-rag-1.onrender.com)**  
+ 
 Retrieval-Augmented Generation assistant built with **FastAPI** and **Groq LLMs**.  
 Performs real-time web search using `ddgs` and produces concise, **cited answers** with source URLs.  
 Deployed on **Render** for 24/7 uptime.
