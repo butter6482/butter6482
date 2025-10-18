@@ -22,8 +22,11 @@ I’m passionate about **Artificial Intelligence, automation, and full-stack dev
   SaaS chatbot builder that lets users create custom AI assistants with FastAPI, Supabase, and OpenAI API.  
   Deployed with Docker for scalability and CI/CD automation.
 
-- **AI-RAG**  
-  Retrieval-Augmented Generation backend powered by FastAPI and Groq LLMs. Deployed on Render with web search integration.
+- **[AI-RAG Assistant](https://ai-rag-1.onrender.com)**  
+  🌐 **[Live Demo](https://ai-rag-1.onrender.com)**  
+  Retrieval-Augmented Generation app powered by FastAPI and Groq LLMs.  
+  Performs real-time **web search** using `ddgs` and generates **concise, cited answers** with sources.  
+  Deployed on **Render** for 24/7 access.
 
 ---
 
