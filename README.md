@@ -41,7 +41,7 @@ Deployed on **Render** for 24/7 uptime.
 - Building scalable APIs with FastAPI and Supabase  
 - Integrating LLMs and data pipelines into real-world SaaS products  
 - Automating tests and CI/CD pipelines with GitHub Actions  
-- Cloud deployment using AWS CDK and Render  
+- Cloud deployment using Render  
 
 ---
 
