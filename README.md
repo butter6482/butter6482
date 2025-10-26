@@ -1,34 +1,34 @@
-# 💫 About Me
+#  About Me
 
-Hi, I'm **Alejandro Butter!** 👋  
+Hi, I'm **Alejandro Butter!**   
 A **Computer Science student (graduating 2026)** from Universidad Interamericana de Puerto Rico – Aguadilla.  
 I’m passionate about **Artificial Intelligence, automation, and full-stack development**, always exploring how to build smarter and scalable systems.  
 
-🐍 Developer focused on **Python, APIs, and test automation**  
-☁️ Experience with **FastAPI, Supabase, CI/CD (GitHub Actions)**  
-🤖 Built AI-driven projects: **TuBot (chatbot SaaS)**, **AI Phishing Detector**, and **AI-RAG**  
-🧠 Interested in **Machine Learning, Cloud Engineering, and SDET roles**  
-💼 Currently working at **Banco Popular** as a Teller  
+ Developer focused on **Python, APIs, and test automation**  
+ Experience with **FastAPI, Supabase, CI/CD (GitHub Actions)**  
+ Built AI-driven projects: **TuBot (chatbot SaaS)**, **AI Phishing Detector**, and **AI-RAG**  
+ Interested in **Machine Learning, Cloud Engineering, and SDET roles**  
+ Currently working at **Banco Popular** as a Teller  
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 [AI Phishing Detector](https://github.com/butter6482/phishing-detector-ai)  
+###  [AI Phishing Detector](https://github.com/butter6482/phishing-detector-ai)  
 
 AI-powered web app using **FastAPI**, **React**, and a **Naive Bayes model** trained on 1,000+ phishing samples.  
 Integrates **Google Safe Browsing API** and **OpenRouter (LLM)** for real-time explanations and threat detection.
 
 ---
 
-### 💬 [TuBot SaaS Platform](https://github.com/butter6482/tubot)  
+###  [TuBot SaaS Platform](https://github.com/butter6482/tubot)  
 
 A SaaS platform that allows users to create their own AI chatbots using **FastAPI**, **Supabase**, and **OpenAI API**.  
 Includes authentication, bot configuration, and persistent chat history. Deployed with **Docker** and **Vercel**.
 
 ---
 
-### 🔍 [AI-RAG Assistant](https://ai-rag-1.onrender.com)  
+###  [AI-RAG Assistant](https://ai-rag-1.onrender.com)  
  
 Retrieval-Augmented Generation assistant built with **FastAPI** and **Groq LLMs**.  
 Performs real-time web search using `ddgs` and produces concise, **cited answers** with source URLs.  
@@ -37,7 +37,7 @@ Deployed on **Render** for 24/7 uptime.
 ---
 
 ## 🌱 Currently Exploring
-🚀 Improving my **AI & full-stack development** skills with a focus on:
+ Improving my **AI & full-stack development** skills with a focus on:
 - Building scalable APIs with FastAPI and Supabase  
 - Integrating LLMs and data pipelines into real-world SaaS products  
 - Automating tests and CI/CD pipelines with GitHub Actions  
@@ -45,7 +45,7 @@ Deployed on **Render** for 24/7 uptime.
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
@@ -78,14 +78,14 @@ Deployed on **Render** for 24/7 uptime.
 
 ---
 
-## 🌐 Socials
+##  Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alejandro-butter-cs)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alejandrobutter316@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/butter6482)
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=butter6482&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
 ![](https://nirzak-streak-stats.vercel.app/?user=butter6482&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=butter6482&theme=dark&hide_border=false&layout=compact)
