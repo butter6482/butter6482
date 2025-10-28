@@ -6,7 +6,7 @@ I’m passionate about **Artificial Intelligence, automation, and full-stack dev
 
  Developer focused on **Python, APIs, and test automation**  
  Experience with **FastAPI, Supabase, CI/CD (GitHub Actions)**  
- Built AI-driven projects: **TuBot (chatbot SaaS)**, **AI Phishing Detector**, and **AI-RAG**  
+ Built AI-driven projects: **TuBot (Chatbot FullStack App)**, **AI Phishing Detector**, and **AI-RAG**  
  Interested in **Machine Learning, Cloud Engineering, and SDET roles**  
  Currently working at **Banco Popular** as a Teller  
 
